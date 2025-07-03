@@ -19,7 +19,7 @@ This project implements a UNet-based deep learning pipeline for automatic lung s
 
 ## 📌 Notes
 - For best results, use the aggregatedSet.
-- You can use our pre-trained models directly for inference without retraining i.e. skip to Step 4
+- You can use our pre-trained models directly for inference without retraining i.e. skip to Step 4. You can download all the pretrained models in this link: https://drive.google.com/drive/folders/18HLHHZ3bmFwD5JALmLQNE6TaE7I4c38E?usp=sharing
 
 ## 🚀 How to Use
 
