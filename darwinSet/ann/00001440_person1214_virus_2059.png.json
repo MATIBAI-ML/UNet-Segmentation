@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxllGlTU2cAhd83NxtwExjCGrYoUqAqUHUYEQlXCSVpKLK1uFC9o2BZlIICg62GGxQdFCFWRdBq4oiaisYIYgnrlQguWIhVQaFIFJAAKkGQgahQ+rX9cOY55/yApyAyIoxlzjUHALBEQkE0ABTwbyAyj/ZbX2vmQY8Mjw2d59zc3MXn8t75BjOjI2IA9vrZdgCoDSLBmtic397+LS4p/9KKjgexnbsDcfd97J7a5eu54gwzNDXycs2Hv2wKCNLq2tWi3CdlNPkD8cOrI6rjwkXWBYKFx/4DSWrh0FO3EPUSLN+vCnDyfuy0vF5o0v7y2dgKnjDIpJbZKv4F22LY0IOcvKb8ZOp4aaHcEeqvDuj/iVdz2jS2f24vroKTlz5Rprn4JgncrKK27pyhKYfDGpY2gQVx+6nrV1m5pNOcNbMAOYcWPoKWgGMf+Uj3AzRhuqgZW4WvN51ucPfm681ljLV9aLoAJ8E6amvNn66g2s0TVUxdaAYjBzq9cA1xAR60oNoYy01BbJ0po8k8DnFn6+jNrg6pUjNG0uK8Zl+pv82Ht8R98C4aD+hbqvcmZ/PGGCYW5nh4H1uBtizBHJkhdupE/AHlHQVLlGpQQ/ntW0QT8IvHl34sqecIR3e5ehUPNkLcH9uzDBAvwOB9vxXgiZ3aAx+gxMD0eJwPwr8jal10NPIUiEm68yozATkPTlzaZglMsYoV8g5qZ1nqLSyZHxJ4RSlJXlUpHRfgySo+Pd61tBtZbm/sgm3KPpg/rIygysRe4Xc/wrOUuvPxpR1WilSAnHBOBcoE1OZ7G6bDVtKfRh464qJXkt0vA/E0c3QdnHb2sybe5Bmdsew1pe3UzvP1m36tnNjQy07ywZlYtigFyWyyVAdzmadAEZM63YuQkkWVUs0CK9tQT44t1kH2sRPS0HFKWu4SmaZKLc0JM2yEZU7adcjrn/GFsCzrLHO9TWQ8Fja42l7YqPFBDtJX+vhxpJNHhqYwIB3fA/VObdenhxjGrLMWvLqRBJ6ZDNIdhCU328CA9ibqZw0np/Y6Ei+cL1+Gup4JNsa3RKcbjrKUx6Vd2UQFFbXVxeJpNJmvlEn0OQXbE3tjssD8VYsar4FdTmr4pr3SNycIb6fvWA7qqt60VSOyTRxTZgnFjqo7tPgkKKI/jEM4LqXJRBNX+OAl0eQgVLHgZOMzcSA41xFHMabNSEi8hQuMp7P5xB9rPBTtDH2ixkVRgEWrPPAKYqA7BU45AiKV4oUKJekBfr3sRfL8p1PNiUSACxYcG+rPFP3+De9zeX8K7/ngIPeGmcyuDU3k6jNIBNt41TpS5N1lRfiLvPFRcJTizUqLkizU+9DDo1PseBP3tAzF0VfXqcucUH9sNH8LqOcHG1tpFLYNPdoe4bCY4XiVdjwQPMOB5bdOpI/4UxQeNDzmdvGMm6HM07S70sGgnW4kR5jpjvqsoOFymflh8HD0yOTarq276dNklCJEenelunfZFR4ugFUNteN1XxEGa7zLIk96A9QHbb4tj/vgYOzt8C3uX2llmC3cQAYXIV1j/J46Zv0WZHZ0G3d1oK3lDf7EmZhtbHXb6Fw6fg/mVAvVw2e27MQ+TsyyVxW9mHqVQT4GXl+MHNASg5S7o7nwTgQJcwP1NfOz0CR3P/bYTI49ze2nwnOI13ZPo7TguZnbYo8K1gw2NPt+RPx/1bwvHshV765uGc8vr5i3GhCFRghUa/G8fwC6yytR",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

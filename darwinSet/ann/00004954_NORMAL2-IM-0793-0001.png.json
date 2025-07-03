@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxt1FlQU2cYBuD/PycLhmwgBRu2gOxrKChoECODQJAljZS9kIIFR6gFyYRVOYDQgMpSRx0RahzQVKE0QgtYRc9QC1ahRlorRVRoAMPaCCjQMKTpdXvxzfNevjfvVyWIDKFRWBQAAI0fGiQEAAH/HkT1/NIVfEsPSRAevV+vTqe7+sflF/oExcLIg4A3PZIOAKrjB+2Lzm9cGPvwaDOHSRLVWedPIq7rtq7rqa4Xm9edAsqstcynt/nsUk6/txU1QrIpZz6MTWN45CQ2BNvWh9oZVwX9B0lNDcpQeClqYr2WGrKJFmSlDtOMtXT3b6Aetd/sLHQRmWFNvf1XzzwLT7yXteGAzJKoqvNXGPxuYHs8dIWm6ZwmsESqeVlirrQ3nxtw4oXv33OZCZ5dhjzPyhbAqR87ZWmmhmwBoIGUKfx4OF91uAcjAqHNaXwt4i/zlkApkzNeaz13eHdFzqMJSESsGGI2U8NjICdzDqEsC2KfX0MYjpH6Axtv5CEWZpoBaETqmwEnhAfAmnAS+VXM+T1Z++c5VJ0Q8xSDW8RJsihYQym+B6y2qE2YdRgfjiR0OYPE6lo0mWsUX11tKOaD+OrjrG0CPM0ktknaZqdFfKLZd5GoJ2k1n9/CRgFCUvdgAZYcV1wJbm/PLiAKtvZR48YWm0t7ELGXQEJJEkmc20ImioG3e6s78G7tKD1qiA/eyJK9IugbJrEb6eywHHqbhwNVNodIT0Eg9uKkhCSI52IGWUouIr3USOUcglztrAAJclCmg1hkpbO7mC5Ikj0CNuSV99lFO9xBClBT63obTEE25S08CzsuqBjoButBpMG7DEgHlVRmLtZKdZveqmAcQV0M1x7iqcHlYbt85W/j2d72N+HH1g/C+a/RaxSFU81gY/oq0d9SmoG6Gzh5CF4iZPB8udCeNwErQOUq2QJqPgIlCNjETWQspQ2m6SzdFPO2Y0Pc02ZsC8Y2gqKgHCfNG+HTjIFlGO5oRSleIPiQkS66IJnM5jl/Co+c6VvHp3s9zKVyVOP8dS1Kgk68kevEJmBt4OfPJISCzXyw6UdxuLtHaYWerMYKS2Raf7wcc0Q1qW9KaH4fKO94jfNE+Y5gEd2N6e6XZUJowIWecnyx3C27wM3VFHl8thJegO2O7buwEkmwUfbFeDqhmKVWLS0fM+LsUBS987VS5sRkVOBZpc1NySrYmSTZ3JNJZRkotQfAxpfk8TgswuQHe3B99Sa4IwgG49+X+NSN8sHYDNgIMI8zHe73jBdmVpCRKuKzPMRYOz+D7TMVXhqVP8G+JWAls0SE/vJKD6+cJCzyMYsTl0UhEYVTupgw1dBBI+UrV8UQmEm5/F0acfU5Hnxu7o3iM3ZLXoRXiy6APJxbet7QJwtf+upYByrqeVz9yd6sa68Ry4V6i/fAT8ThTvrO3+Q/ti19Yfj/I7Uz/nlg0nOKdt9T4hJnp/8LgL8/Mqg9UFT2D5HbuL8=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

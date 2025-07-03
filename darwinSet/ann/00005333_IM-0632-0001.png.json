@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxllFlQU2cAhf//3myEsFXQKJFEdDSgQKBgqCy9lNAUREAMNYwBbl8UKNAQqRIkclOmahEwLlRqFa8iiJmKUQRDkeFS2dSi6UBlKQwJorK4REHHIgNNX9uHM9/5Zs7z+SEhTurAXsUGADhEfyFJBAAB/waiNjxo+rzZBkZCrCzKxqWlpZqh86O2BvMS43YA7OngbgBohdGSCFn+2Rcj205UC1yZyh2bFCqab0CSIks/kc77fq3heacs5Fyc9Mnj9r7L3L5XbaVWe4FpOOnCTDDP8fAdi/I/OLu/zHBzXsXLIFZJpcih3AUp0nX8ETOXGc7CiphCzXuGUJMP9oUI2uCt2pJ3XoZaJ8+F8KD6F5F8x3knMzmeIRs08/HOMt5vrz7A8NdUqzEeLAiO1LXHU9qgiz2T9WFwTjBpUxDGyi0eQG5Jc9tWOh8bn2VYaYaTyV1jYljrQj5mxBOdEGUF83ScoRhsnUMVGHkwsoFQMGM7U97Y5fhfCku1S+dSvU/2TKn9Y0GO7w7tLjsRC+Ox5TQTnx1ME6S5W5WtXtMJoKEqjUf9sieA3Ap2h/E5lVtErnArXbG60j5erEm1VDYrGNMfT33JmF5mSSfDXZ5uU3sYkrCcjtNEMjTy8K+J0NWmCn+lMolntuiPcfYOPQ+tg0fVNx2cg8imM5KX93/EXkT4/DWcoh1WnTp6I8eezMSyPzkBU9yLhwvWo5GO8vIsm2uvs4O9zZZ7KUbuFNU/CIR+3csxtW33BxBee4Y/+tAHVSuagGon5YGeEkdx8BgiE8qNBTRjqNk8bak/yDVvpQhusaeOf9VZ+DJDTUrR9vLNY1ZnYXZ0+6HAh0M70Zj7r2+BmtVPNHAlwrArTNT6+Exec+rZTGQ7zaVjF8CAx5Eu6ryj62LgcajR4D1oiZYrDBWUcnRad0eCv/0BU7IWHJSsQU0NunKwlyuA+CCr8h3Bvp/MMlyzn5xBJ/xxsxvQuDr/efj07N+UiU1Md9P9WCNn4NM8cohrFDM4H1l7IYSRee2bmeO+PMacnEphvCdAPJ3cnxYIWpsaUfL0+maxeQ0Y3t7/FpYxfp8isjkdLUHGqv3MkVyiaBfWiBIpFZyOA+N0uNJtVgAWvkoYYM5tx36tafUTiZReYNBpH5Pqvv0OK9Q65nsrD64AWDWcOPTmHrB2uaCLeVTECgNRg/TRmx2UInB7to4s/cmv42G4kPo2EE8usje3BOA3iCp7ubfJRWtgpuOgQLdQfIXdscyHnlW/yJGEyZ2CPXWbKuaiGziXQlKRjmzO0Zqd52/68Z9ZabGqqE99C2NrblD9fXMnUvOuPhy9DHqy5jP9VQitSryxL/T6gmIA/PzNSL8oCerbZpa7kfOzbbvoyiBz+MYYrHFR49rQW5jlfoR/Ue+py1YkGoBxi6CEuIKmVVe2DoSpWC+rWWjdYyiD2Dml4A0hKbdofHcf8NZWnLoL0Lp5OlAPH0bgBMREeC5Bg5F05dsWD0TZLSvsvbSJ3AdMl0URRDcyVKt32/AMIzqRoisUH4jkAvfGO1pchnfaxahBiEsEoeINis0ZxDoPfRMTj2cUjMcuIulvtRq9F3b27mhZ8MmWck6+N/X/oxjTLe0pcZsJNEaV2k4JREfFSeo/w7/7B7wlCSo=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

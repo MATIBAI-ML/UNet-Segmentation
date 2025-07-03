@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxVlGlQU2cUhr+75CZkB2IImCkZZVqsQWOFEkTjrWWtkSKboS4NiAiVUeoYjIrMd6FYrChQUdLWtaKtqBgRMFrRDxdA7AB1FFOs5g6FAlJbhWJYBtP0Z8/Mmef99Z73xztnb3xctIjvxwcAiGJjIhIAwMF/ixFudDRGXXWDitcnRbrpcrlO/3r8qVth2xLiEgH9hz0TAHJhbMQHSeYjL56u2PpEJQPGc+r66lDW7+nnh4+ReVeTfJTFMyv/WpwY+jBOuTrmTu+rgIIjzsz3vBe+3E/2MrIN+drFJmXFi/65tdPsEjH7bJNMdT00kE7D/m66W7/UeXK7AqYxoyrzw0MBnWjozAbwGZ9XRFYWEQW4tfSZrfR7l2XFb7cHZnyHv0uw3uzWYD9+iUdumN9Bzvh+uGDjunse6ApQUtIwtHpqmN07lHxUcVtWfnBTjULTgQ2eLqG08nIBQiCEk0SxPjBIIFyONmCZM9kXq+wZxnBgvdcVAJ7U7QaLfBSzo09M4WZSE4l5Ymqy3OBOWUbqHjQ3/BIFh/nGBaAuNZJYL4QZyQc4EWDNT7KvZVvgfTLDRKdNqfj0yM7diEvb9M1gIUcotxrQIWKPtvyYVIc9GBhdR09mZMljjguzYAg5yJ6aR5U+wm74GL/C0sNZa5BxHzbijRjmsd591CHObSfsG+nnPXncA02484u+GuJyYsxaRxgWjp9dXRnOLlOZdjuklqP4W10GRDOpUc+50ivU5fpj17QfBeQ6BjdLbHFw1/QERUiq+8fOMPXVWs42sSaFazbR+eLqC+osWhdS3tjoKcW5+AhoeOfEPnAjGwXU+9cQOatQHlZaBqo4wk/9zEeJOVOLb8wtr2v1LFh5M5TW4QmNgVn0Ejwh5XA3tha8bGDSNqI/JRq1231cpn2fZ7+F6rwFoBAqNP9INFJ0ic4lR1uZfuZuShUcAGtcaLLgOEw2Tu85qVP5E8PblWPYmMJw83cDEcwz1AqGoUPWpi0+uQjxeFsM32It+WxDNHRKSuYDixA6OW1vsEdLWY9AYK9De6HQaFeYb971InOEtlawSWS+GOSRJTLsoAopCu8hclwwFa81Qc943EpWUsEKxSeE/kvEQBFooCwdQMQtbA+LtvLtdfCCWIvnYWtGoV2ufS05kge63+x0vH2iB+9+5s9jZmOdRNt8ke0H0jiBUkCfn7WbO4bNAJke58eaW2AU/tjHOsIkitiUV86JAS5lnhhL9JciR9WuVLnmQhXHFoRVEHY9+5p3x8hkp4mlP08qVT/KwTwRr+aVEBmx/ZzCW0KVvsmX1qb4QhG/yFnxoJYo4gR7WZo+vo9QznQRIRYMps6RGc6z8caVXL59x1kc35fwjViZvha4G2eQ84F0ul0sxmdNaSl8VggFVKc6rwFYojNxgHpyc5Oe29t8CZwTA5dT5+UlyPe2JVpKP5ynSWduby8mewWhgV3wFq4UlFoEQ15CQV/+qRiFl4CnRueI9SaYzO2d8o8JVOf6RhdhHbH9ZS2YS127hPP/iTw0LlHZx5d3XMy+7v4lIDYyLqJ2mbHwXwg8ytI=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

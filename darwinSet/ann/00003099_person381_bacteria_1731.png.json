@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxV1GtUkncABvD//325BAKRM4cepm8tk7AMM8tN01fT1KMiihMvpwM0qx1bjtIFeeulpWKmuFXaXaZHj9JF6mRlN1nmxEqky9FqWaRd7LikLDNTYu5jH57zez4+n54ykTCKSXenAwCYMdERSQAg4P9AdAbzuTVtM1BEccmRMzocjoYHtQMzDeYmCcUAf3F/AwAkZUxEWLLqyOtHsdXHMTbF+kEgMzmn0mM7HgxUx8ppjHyL9yPzTU2SKJXSKnbE3e7V7NMKH7YsZZV2PFUEcr/gSITLXAO6+fCyAgn6d7z3tYQA9uYcMhY+3FXmu0vkZGKXNK94qrg978KW8OJF/bMM8jvl7Q93dTxX7pd0HV4CpOc/tz5ZOrSvAWn/qvXHNKF6JFD/ze4sJxn3Sr+9eRUjj6bii/rLV+q0xEWhBrQhgljd6B4FSkFkKyEXakoq9dTBP+tHoBvzKNUiAfzvxxo9LHNkK5ESuvXqDa9Dev1L9vgU2sTr6lLvGB1Hm5oWxpPjnJs4MSuYjGSjvN8Wfrm7B2jJC4COipB02vo6JE9pRIxel/qqcQBy/Qj8yaxhXKZDKukqLsZiYCNpZrWCC9IqBcSJxh51dhBI633jO03WRcHy9J9YVcp5KIOHv2alchQ82em/+vAaGExhJ1sDGMdqPwagv6Z4oVlKXAxXkxfPObCn/qW8Bb3ubNgM24J0SuotkuJdWjyYouAS+FRkNCDDZ8Cg0J/ctIUyGKJlaEiC5qXLLLWenBS4d/spP4sN5l5CpybC5FgAeNaIO76GUtK9IKL78lhxmBjuBe+zZJPN7qCaTppvaQA563RS0Jl/ZALkKfFE2DbPKoF1XhhH0+JD0wWy3o8SFcTzorkJPE/g4nkIQSN1H60HgulZS95MXxbrQr11PiCnCBer7Uo14/5sUIKwNbiyCP+XZZpvHSPqkE/TRAyyIVam8q8a/U0MX4VYmHCKRtxE5RnW7b9oqRcpRGggW+r6IlSVDU31CN/PlklMy6zefkGO6R10zPE+nhLhZgot9HSNLlTXsBRJa5kFnpTowoobwMV6p48NzGUbkZmZZbAW2TrSCyXM+664FDJajSeqh3Gp0ywQbRduijKuBzHke33GC4tdLRyjBAyd2aS2pRtxYsDZNKBP5wsyQgfKptCD+QOTr7BVVY9pt44fVC8BCeQ/apSUSpBppmJYCEdRCjN9ZEWl/o8T5DDSTrrIrFq00J8aPDfavmjxxEauE3z7tlg9+anVODhYgGHZbpgskZ5plbor2IKWhtiXfdDeXxg3Kbl7jkhoCUl5d3JtV4Yejq6+Ul5TDgzHxk9OJv68Qu/GlWX3rNZ3p4DuxjVEcUaPC+jluYasCcTuaqiEfyPN7KL2vRv2QlkwkpgKh2+efZhDfAvOk/N0b93HSURxBKWdCp+1X1VtGzK4srfjO4cE6QtmXwh+s5/s8mg5SvTwrtu8bVF3fqvolJ7ejYg+2zoRcDZu3Rjhg/DFW+jjdazDqMFhckI8II9veQ5KweAE30x40MDRCtJyhvXxD4hWVZwvLSfBMpTEwKTfoci1IRBPNh56ZSI64E56btOZ3vWd/8iHOHxdM9h2/cpso4fvl29h/n3Mc138k60fwG37zB+BmEhhxKlw2c7/AMAMATc=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

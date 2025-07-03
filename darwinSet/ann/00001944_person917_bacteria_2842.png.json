@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJwBfgSB+4lQTkcNChoKAAAADUlIRFIAAAIAAAACAAEDAAAAzrZGuQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQmSURBVHic7d1BkqsgEADQUC5YcgT/TTgaHI2jcASWWaSGP0lNElGBxhbBpHsn6BtFbDATzeVCQUFBQUFBQUFBQUFBQUFBQUGBiCty++GGBLhHAxYHCO9wwOiRrSj9tBWHqyoFlP+ZLAnvddn23PvpaSgH5C9g3ou/SxYD3JfK2nTwU+Cx9JNYfRnjfRMXAGU9877P753mD0BvB4T3YZtuA2wJoO5bvLrio0XKTgMa8MGJk1hAhYuAYD448ypc3AwYODCEgN8JsMWADgEHB3i4z39AwXkUq0DBULMOFHSEvQAbAgU9aVwH9EaAPQFzWmB4AhYLuFLAnR+4zgD45Sh7AW4zAJ4QPBJgEQCcEIbmAI8A4JSEBkRzYGwOqBDgL0CfBvBIgM0A8QJMc8DCgPnVdzzAzw+I3QA/X3YwYGwOyHoAcHRFAyoKAEdXPwPejQoc27AAewN6BsDyegrQhwBDAjCHADwBWCzgjgbMo0C8C0AXQ1UAdDWJmgDoakoBoKtp7BvQTQDeFWCOAGTfgN0CDKcDVFXAnR+A5HUCdgB8a4B1DgDG96E5sEyh0xLADAMNiObAeH5ATlZ3CwAwy6oN6CygFsC0KwMmCO0BnwZsdYBlAFcdWFk7KMpm1fYA7x7I5nVRG8impJGAICWuAdmsqqYrX1cAfX7AlAC3FcB2D/gc4HoH2ArA9gUySbFP4HIoMNQHMgPDVwCZvN4poAggYHcgM0XhBwC6ASBPBayexp0BS0BmjlMHGIPC9PjeHljtyuNa4XYgndPQgDgDkM6qY3NAHgHovgF1BGCwgK0K+FMAribADgFSabk9EI4rz/TXHZAamtAA3xlYfLeOgM2AgAOCAAII+GyAExAZr74aSN2yEHAYoJsDhoAOAFsRGE8CuIqA/FRgdi+XunFEA4oAIJCYongCPgBgZwHiE8X5mgR0DMRnmucB9AcD83E8BhgwoE8HiHVgkagOBEwnwGK8sQTgAUdAz0AkobQEIocQne/Hkt9XA5qA52Tom4HnrYlqDsitgMMCFgsYLKCxwLN83AjcsIDFAZO1RBvgggOCe8P5iAUBbGsgvLstB2ykHAyYsHw+Xc8DelYBBV7HOq+YAdGPcXhsBVkIGCRglzWrz/hsB6KfgfD1c7A4iBywViVAwBDdAeDD60N0B8JW2ARMB8g0EOunYMBFKiUUsJHKEQqYWO0FCOh6gIQB0e0XLxVcB1L/25dYQEAA0DcsUkDym/UQwKUAhQUkADApgAMAnQIYFsi9PX5IdsR7jNmunHniitUH0g9Y/DUCBnj0xhSQf3OOSgMuC4gEwCAASxwnA71JS2IBnmjpzLX0/DPxloa9VU66mgBg+8slAcDeFvovWqPKfnGkR0DmL8bKwIj9RaL2gHBYwCIBjgZMa4BpJEBBQUFx6vgPqXiEuyPVvEkAAAAASUVORK5CYIIXR9if",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

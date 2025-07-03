@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxd1P1XU3UABvDvvXe7F2Fjw4EMhkBLkdRoGiACwoXGWwbcAJWj6IYLpQB5GScIlt4laWSyeXREyssosXHECZYyQLd7PL4A4ttRkBngLJCD8haSjLfR+q3jD8/5PP/A85QScVFMW1dbAAAzJlqYAAAM/guEWLl3JbLFCkp8khRhdWlpqc5Y029tUH5CXCLAX/TuA4DmFCMMSyqsHOvbmjfozUZNCem1xqaqlVHP10o5ub7lUkYZLsz+4rmAc+DJsajwcwnh2uqFAk37/SJSuS1V5LO8VMg/Eb3qf8RIfk7rvrgB3XlT9nVWPfevNfWW8/zWqNfnI/6gv972d272+xs+3/tKMt38wrX++k46v/Xg9x2Kyuy7WO/dX/gZ6PrGs2Trpoc7Ep6tS3kqVESedJ/m5ESbDvZkY4vptzLaxqvfCwd5q7qM8T/cN5Gr6eecqTxIATsyaI7qR5aLYHxjhWOFCPQlp6SCApdL0nJQbhcgXHwMB8MVu3AcbLWjuo54kS1lp+0qVpAtjExxFqxnDV5L9Mx/dWykBl6cNT99VgVr3JKXq0PZveTBQ9Tvckts1hDchJjjFvMDiYEbTszkIjzAlaA3MlBfZ8EWdbP/hf1IB77g7puJnyA7N54aCxsuu5QvvyddwSNWC06CfiyTI4gR7UAWmnA3QPN5sMe0jjoF3W0KzpV/RXtQGWsHp5elOYp55Mdtc52pY0CHqo8CPcRlsHV4xsYGrtrP8VM8w7sM2ilxwZK530kA1jPMmfCmpHIS7QsDwS73sCl9JtUDFYYoYNNsFzq1JtCf6L+wEpjLz0ZCK+DpETIMtl8mE2n/XFaXG7/rmbsmNMFiIGXtSrnM/9B2o80HsW2IxzxQSXO46gGM3P4kUBna6geO09XdTqAnlzTydHnySQx5wIkc4NDUWMlVHm/yNvQl24RTTHg0HRTtToQWWHS1c2TalkbBKCsFV+sFeDGxGcOg2ZcD4GXz2dfQt5gVWEeRQ7AWTb/+jhvChU0tuAaKuP0cf3gHPnoFI6rKfkVMZ7b6qzchBwREn9JMjbl5ryLeSJAbHwWAyQlW4315HZRmQIl51WGm0r72SrDBhSjG2aRtMiy2EJQK6HwazsjvGKnhdPw4fWEE50IyNnQtKGeLo6ZBe1je+XItNQ+p1jD8xVMhtfSk8uFmZBRQSzlUlb05xEQrBDexKOg0WhIirmUdgUyYIVGrHam1FL3ppel+ZGmobt004kpkesE60atU9dxpJXhs6LgBu87xOUxcVLJXPpvtBV54gtkCAzxKq/BAZV2fiWPJ+c3GVmw8r7hU72CuhoqCJq9FPASLDTPxUp645ow/pOBfdrCZib3jZZp6InkkhB9PTE2Xt0E2KZ79+9qp/frjtjQf06OsD9N2ayCOS6Pxlsp2kOfn4B3vwjNjrPVNizNB/V0qaTQa8I8IjB16OvhTtOLdy2wLj0ELcBdbhrpFvr/teWuxb3E1woIcc/BoKfFki61vAWIi4oTacPE3/wKK7t+6",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

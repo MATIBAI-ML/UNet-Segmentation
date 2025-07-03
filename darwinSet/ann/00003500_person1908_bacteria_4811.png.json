@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxllFtQE2ccxb9vd3MBQgQhNiBgUAiBokYEAk5kog0CSkjEIFSr2SJF2jpKDVhB1E1xREUR8QICaqgDIrE0wiCJVdwiXoogqYADirql5RIvkYgUigWaPvWhZ+bM7zyf/+WwIi7K0d7dHgDgGBMtjQcAAf8aojY8vLbKaANdEauMtHFmZqay98IzW4IZ8XHrgGSwJxUATB8jXaHcXf6mT1Z0ReAEqKAkw1luAbnW0JNPGM+qXQqodwsDjphfJlbOt+Onej85aUQHHPZHx378pOlZ2H9is7P8kNY97tqb82II67TIbuT5ydqV4zTxmTdXnQpVRKN646nzxzfAvf7aC6SwUWaWhchJmcw5rWR3gSr2QLJ2I2xyHb6lMTdn3iHHN5VvLQrzUnib3mJVxsDcPUfsPJHWYv74uLi02HUTa4IrWH1wOw1LzFisOCVDkNUPVzSBn8S8IMVOZyWHOuE5++A+eHu2wOiYQirgC/fh9YSAhrGSgnmf42Fsk5AyEXkwY9kRjHjID9LySRpY5pmJSOTYJ7Qce241eOc0GUwVQKU72R4po7E4I1+CBkFmOBkP84CUTfr4uA2rAf9iPRgMrQ7EG6Ecuy6mXqLzZx0tI9rQp2YpPZgjBPqSjU/VvUOadmPfWriC5sNRQOEpNBXtaRuSkYP38kQV9kIlvYVPVZMljMlZaKjl2f2tdsiD58dy1o9pjqWYlOQ2ZG6vlN5sfXsOJQfvfsvE78N+JjkADoM69achjPfOktAyFnKfj7qNMHllLCV+zl6Id5LZ/Ntkeqo2CtZ6MD9EiUfOL+2vl/DLaqAokJdITmUTK+FZX39aRpJkHez0GLlA9+IVbj5zcQyjP9IFuB16fBLDf7U1VIykqCWVRHe3Z76mu8J39K8W4jpLexwpckDQeSBWzXNXOUQv536/Ogt5n6fpyvV2LMklhn85g23z5e2rS0DpAVQADHKfEaCuKFkUTbd8QWY3/q5J+1tOX5Uu1vsUabqkyVqa3nLLKV0O0q/m+INFndMq8JkA8Y0PAbWjBDIQLMnJ2h/A20KdzrQ6bp/V8wpF0fTTCShXBxegfoBEKuiF5YdTQE6TzgW1LmBgGcsl/aDT49C9S7C6Fam5kQu1rTqmhIYofit313MAvpjOZtgOogcDpZoaoDdvRaqYXC6xmVsDttiB13dIOeOuPRHuS7FphNUN7H6rQ1hKcg4wvWq+rJn4wSH7hQDRJk9tIcKxwnaYQONOb0OvKcH7MaiOIx+j/Sqe1nqJbkOEfV+CIdFZuG+hbBdDP9HxUatc94BNdXRzaiJwF1Knek1bv//KzFdcsbBhICdCKOyCfV1zPoC51x5oIu8two1tJZFzHQNfzWlgpOcXNIVSgLpqmdjEPFBZ5s9ojlhe/EcSzsyezPIL1L+8LnNxsZOumVLl1/8MzDtyePhRTWbiEn1EdTKe5tC3U+XphaU03WiBhsUNXsto3L7GZMvesCVOY23eQ2jJ89hdUDRQFaVgGWTU1/qbN+eVOWuXkqPVM1NDe08oEe4jcjRctMMyDkPTIPnCbO3o3BxbPzaT2tLyI15qAc1CpUTE8OEMXya0SOOfRBVSF24SMaRq7UWkg1OxRHuZuBHBK0V761w5b2wbZ2qH3R6F7ZrpScIQYQphbPcDHrZh0ufjpahxXKkUrMF8vhF7Uv+TIelvRveAHKzd8PiW7ZGBmMg4ae1K/Lt/AOLoGig=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

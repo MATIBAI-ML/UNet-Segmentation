@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxl1G9UU3UYB/Df7273bm4MCIEhovIfWrVGIiHH5CIjJuKYOE6oM6/oTGgqDtSVG96rEAeEhXpEQsSZQoKB2AkBS3ZPB8HScgkY8ec4/nWAGC4lQNmk+aYX9eI5n+d8nzfPm+cpkEnjeRxvDgCAt14iTgYAAa8KMhz8cvP9FgeYLFEe53BhYaHq94sDjg5mJ0s3A/yPnj0AMIPWi2PkmgpL3wb1ZZErRoR6bp1g32qfzA4f373ZJy9g73icoLwnLMIto+Y8tjjpxQ40TYe9t3VksP6MJNCtQOx/6r+ctq9MrHgkaNcMghnunBnssAyHXLbTqBwrCdOhQ8PWa/FreKJFps6jXcG05bO952Qg2M3sZn4UQDHbVuHl52KhL29kmXU2NhaTc65sLywQwtaHAC1i0lfoWYOUSZeSOFBwtCs2Ba97E+aOdj2mwlYHJjLvoFOXI2fntTEa81p2ltFFTuR0+FhTcSX+KMiSCsoa6P6cyii5IZ8kmdOMOQmcVEQo6BigDlvznS+rJGsLBdQCby+rghBDZyzY3XWnbybsEo+9ATL8nTzAKj1K+MJaTCMU+YHbWKXd+0NY5k0u6RCQW0yHoUINVurrOXMbaRxJ8ygrt8xHuepZpR+//vhCQLV/A0xh9W7e9Bs1I1cBS81d7P5reBKc/Jyl5WZ+xbgBi4pn7ON0ZpQhAW8KEa0CP6OJyP3rOUHENvxqeGt74wsD2uZp6vXKYZh6+/Qs7/O7dmD9enzXLhxUcotSiFDG4YP7a5FaXm7Cs2VgO3Z/SKETno+QXSxkG9aeUS2RSC+6OBZXUwVAcZeMBYNHEIwnZsq264GhCaE40woCgDz0m9NzZY0HmGNOXhvwutryTngSZhyya+mdZG87ybAlYf4cryRWNR9ZzGfH+VY4yxMeHgOR7rKa9AW/zEuIJyqvFUxx2HiLi0D5BU/sY7408zzAjVnkWhLtf4qyQRQJFrr64lkwywvYZMbCUWQqBaS6x+B+1Pf2e1T31uPgavUNqjtNG000lrswDLfqY3Ajl2Bq/MC+B28zbfPw+ZEeOhWbfElnu4s2wdvvuv5Ezm8EDcbrvU9YI0c9l4KI+GaXp7qloYUq0JpnG8zngZSzYC55/u/YXorWsGXjDCs/Mb2fw86Hk9tCkbPSNvgs19hcTLbq/ryVbJk4ZK6qIx+M7IkAjxvbG0mAvJwZnYge+JVWXOv3pNu690/8SNtKP+US/KqJtc7LPNj3TijHY5GTnU1SzdQKCaFdPjaiND/JP92srEvZRiobjXVfd3j4UbvvJWJwUeBHA2ruAFKm/Cse6Xwq6TA+OPEW7hYoegdyb8Yjx5rxIBVoKnNGVVhJNF3bAqY/0CX48E0Kw/TC2LeRQqKFHETKuaFCUxY1KlIxwvljLfTQ8ghHtuZA2rOQIdarySdx+1hO/B5rzcCXNPThNyjwg5SelyrMvMANYTD4Yz3kMFLKzY4SwTsoJjQVK/D/n/G/7DbaGH0lPzin46tJx/cA6+Ok4vp1xPF/ALYy0b8=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

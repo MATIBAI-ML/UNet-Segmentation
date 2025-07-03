@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxV1OlTU1cYBvBz7r1ZzIoQIGwSLWpGEdESrDbAZRHBJWUJiFObxgoii6ggiCBwrsMy2KqRdgotlMRxrcMSmAERGbhQtCJaMwqtDqJRq6AJGgQJUITST20/vPN7nj/geUsjFJv4HGcOAIAfHhYSBQAG/jmIz/Nbc+jVeZgRW5Ub552bmzv/UDs4n+ChKEU0IF8+2AMAYR8eEqjMrhp5tK2sSiJiWS7EaWJayBWuRSkJJZvGpIuoF55RwV9dqV2LCY9OBr6brXSyz9+3cklW5lh2hFTEKQo68x+8njQg08H3P7gcAIcdWGHWSMfJHRypNbepu8rEgSP+fnWT5yZR1vVf+1hVY48jFd9k9GIDsOX9tUXU3ewdYmNB+c62VOnzFMFYmZiqYxtlwITnLfSOnbJ8z6lXvILPo3Zt4YCE7YlAmsK+lZL7mc7sUwHU3NfcAm2/nfSqs5ItXc9eRohciTfHSC0/zFPdRSNGqq+xi8za/XKh5C/5DWRW1Trov6tnHroDM6bWGRIxHjfEqt7rrk+Ez0yBqxnxvJsjNifx9P2rKoutqtMDS89ANzw9VxTNFfuS5TFzeTIW8lel2OdLvLtT+okQV30CvbPNRnNQ8jY5CB9w+90K320gTjBu7ynhQkdWY46omEE4aD6nlXjjtE+m1CCDwyKDFlb0whIizlY8Ad8o0erzQ7MX15Az34KV2J9R04MCA9jPi9iSlOtCPlqgL/0xeryBvOG9ih/PKxufeJGMOeEEGN6MrLOxjOloyqqrk9HnqKfZ9D54ZIW+tfQ2v4AfxzaW4xigvZL4hYJno4gHkpsE5vsScNRcRm0PxnPmW0zw2z/w1glqlkPGMIovIEMTYpk7hHs91WkMwsWW+MSDJkHLGh3MXy8JSjBh9J3IWSE4kOvPtMRiVusy5OWu34YdBwVymRnw4DpwKIZuFppf3TOgBfCyl8EOyBtbHEDl5btpnOFK2NO51tm4DfR0pou9pxDbYamOrcmk7ko0qWF7yYUHcJIFfxJWfIzio0PxN8l0R31hQIUiH9lApS+dgfrGApxthsDgFEp1ZAc0nAsduMLoPoLkLLGAEMFsUos/wKEdMz4YXXNW9yNhszDuw0SQGqXNfDnCUvUXfp0nLhdLjyfNaR/ya6oPj+TkeXl3BDYJ45hUqtNJP4o+xfE9rUpc3FFL5a+3DdcJa4fqN9sSyngLfdHvvrfN4xvLszdUjHY2Hpc1/iwooRa3dW417dKdAoPjjkSrpdg9g1oz+rS1uP31RxIw095nCgld58KF9c19GymIqZY3PhHKgaQ14aQCd2NfitE2cTVJoEZ4+7oGWjwsXGa1W2VR7/XdetSFzc44fNrVAH7BhD7qW0Oxo2f1qBtrO5rlGMDjyg2oE3PmXrrnlNYeqhKwPS0kzuQOP3tV3e6xQdBzos3VpsjOfl/XataDFyDHq9kFOJ29eg2fTie/ENw0UYIFbB9UM2eMQ/+b7r88WlIAFA9LhoJaPmTNfwsQvlERUhekPvY3eZbPdw==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
