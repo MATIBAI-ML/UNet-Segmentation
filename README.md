@@ -18,7 +18,7 @@ This project implements a UNet-based deep learning pipeline for automatic lung s
 ---
 
 ## 📌 Notes
-- For best results, use the aggregatedSet and avoid wavelet masks.
+- For best results, use the aggregatedSet.
 - You can use our pre-trained models directly for inference without retraining i.e. skip to Step 4
 
 ## 🚀 How to Use
