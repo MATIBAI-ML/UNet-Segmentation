@@ -15,6 +15,11 @@ This project implements a UNet-based deep learning pipeline for automatic lung s
 ├── input/ # Place test lung images here for segmentation
 ├── segmented/ # Segmentation results will be saved here
 ```
+---
+
+## 📌 Notes
+- For best results, use the aggregatedSet.
+- You can use our pre-trained models directly for inference without retraining i.e. skip to Step 4
 
 ## 🚀 How to Use
 
