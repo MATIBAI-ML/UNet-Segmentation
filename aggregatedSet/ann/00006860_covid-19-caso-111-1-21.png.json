@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJwBaQSW+4lQTkcNChoKAAAADUlIRFIAAAIAAAACAAEDAAAAzrZGuQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQRSURBVHic7dxLjqMwEAZgEAuWHIErzHJ2vthI+Gg+ikdzAS8ZKWpPdychGL+qqBiHTP07IvuLAbsgD9E0HA6Hw+FwOBwOh8PhcN4irbU0YLD2gwRM1lqF6tFZa5wti9yJzzGvhB4PjJ8dLtIFZLy5n+8e83o81mo0sAx6/N4yiP7iCigHmFM90oBAA5MLXDcv8P7ttf+y19Y9JPl0tx6z6+0G7psSDAzWec9+P6AcQIGB8Q7onYC4A8YZkAYDUxgw0P73o74FwDOJDAwRAFwWxw2wbEsqoICAoALLWbwthgXQQMDGAAPr326BZZeA57ErBwAnQh8FgDVpoALjFnicVgkCRBxQIGCiApYItAlAQ4AuARgI0HvAdjuTIQGA5jIZEAkAtBimBACay5YItElAHgB0SUDVAVbnReeBPgmYPDBUB8YkAFiOaQCwmgQVmKoDtiwAqCjVgbYwkK9pLmAqAF0GkDmgZ8CtaIF5oIoDIxUQmWOgqwAWA0xUwGYAUxpoiwO5iyMZ6KhAnwNyl6YNoNHAkANyFwYyMOaAXF3PA7IwILKAogI6DUzlAZMG7JMB9fWau0LTc7nNA+mpSAa6PJCeSUGgIwAy8KJKAT0A0EWBAQAky2oQ6BHACACSUxECJGeSOAWQrMtkYDoEkAnAHgKogsC2ooUBXR0w1YFEQdjW1OOBbdNgTSwKDCAgURQ9IHhkSgIjaBcSRZEMiJMAiapKBiYGIkC4TgWzbUkHmuojqA+Qj0EYUMUAr+WTAG8qM5AAvJb1gY/zA5fwyxoJeGc3Cni3SOcDhtcDZiQwvh5gGEADIgzAlzMUMOcHop+6Jgb8WyT9qkDsk6d/f3E04N9fMBCdicUA7+rOwDMAHQZiy5kMDOcHRgbogPAAFQZMdUCDAVkdIO/CFfCWuYkA0wsC8kWA4TDA689AHIhVpOqAf6NKB5rnAN5aYAAzD0oBsds8BgLABw7w5wESII+g/i4UAC6lgMivtlEg8pX7EcDMAAMMvDgQ+QOCDxgc4Jf1NwA0EpjeEFAvC8T+0SSqA+RdeEdAnh9oiMC9HfQ2zwMuVGCmAiYGQJczGVBYQLitlntyH5CFgJ+/nVYzGtg0XVr5RTUKtFRgfXl8zBYMMDwaqQSgokAXehcMEHx6CwpY9kHvBLrbAVy3if2QGYv5s1muWKBpJBXYhIH4r8EM/O+APhiI/TvkOCD6YQqcaQsoKiCRgHg6gOzv/yBNBdBPxCQDwwZAPEgxDGAe5egBl2EHsL73Us2If6roej2jO7vA/GsXsKznv3pX/weAPnr33PqbHzRg9/vfC4LeD4jbFNidbtcKWIc4gO8hGEr/r5lAGsDnPtCey8vhcDgcDofD4XA4HA6Hw+FwOBwOh8N5s/wD5zPx4n4ACMcAAAAASUVORK5CYIJlPc8p",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

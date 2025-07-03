@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJw1lH00VHkYx3+/e2euYYwdL8NUGqMjb8uGFfJ6OSSjhChZ6k45pMSIaipbdxI76EWkVduaiUZb7ZbSC9vSjTmxSXnpyCQalNiWRuGoY9jZP/rjez7f8/z1POc5329BZEQoy2CxAQCAFbYmOBoABPwviOrw9O7qeh2wyLUxITouLCwoVLJ+nYPZ0REbAD7SmwwAfUNYcGCM+MJ4f/jZWkc2IPyMLG/RzjadnR/89WFXnEE40Zt7YWZkKRobF1lpu669UnPno/2ad8rsxCJz5/jbOzorQ76aJXYt6POp5quv13evYHIvp7pZ4hWwBU4tIlY21ftfM85nUqnHTjNbvyXa4F56wirRH89G8+exCzNoekMrlzEsoGIMpf3wgN5aB3kd2YjeNat7saLCUIvaL2Wsl99ekm9H1JFvkUZDrgwXCjYb26912LYf95c0XZxFDH6qjDd2UTp+2B6Rgg41NKSQCvhFm14red+axVfXeGdY5xZ4vkUcyz1VuNfOLIk1947WUGOG74Gc4y9vsl3YuCDMGwRbE0USB5BkreaTJd28NukK+qM75Lvxp1CwkZOAVwPBxtjB8UaYvKhDqNpGBZKJWLWN2mRlRudlKIO+j5ORyX2XuOKp7bb8HpTXPMOKi2Ds8SMKT0WO1OrWAzW+sgdWcRFhX2J7eKYui8g+vfKyaTZh8c8zz+AAttqcFG6coUF/dDaPVBxzmTCSHhAy4h7bp+E8pstKUnHm0mJKL3sv4eB8g9mLEIVwcjNVY1ieiw67EfVkOIKAR2VQRnszQcZjXUXD8+QWrCu8+zYsfnr1BzB2PAiuRWfJdnp+M5z4RPqjoxcrBzlib/UDzhrFW57jQV9+2QsVVeMmeskDPz+0xEWw3kf3iPzC/PdBscDpfBYzgf/kQR8q6ixe9+8t9cyA6Ww7XRkoEYmX373KkkocLIrdqefo8wk8m1ltRGTBBg+1B82JMdsPc6rW0DRleQx12GnWbyeAb1UkLFVhp9swJ0wqwLOF6fupTWjTUgNM3u2KJNiy+5uiyFGX81G9oEuqR+s4o8QqS14z5akHjuAe/C2B6bh7kydtroecz+E71pmw57cOUfis/wJUtrRPkNoc6iH+KpGrPmWgLMXQ4sQeO9hqO1YKkoqWzZuQ7ssw5d8zNcDDyBGcK72C4I15smakNXLAip0EVMIkUG3E96SlmbNTbJJya5arC8Bc1CY/vBN6VaXpU/rCcFDxLA2/8Q1l5bXlKIvLoK5PhcP7PuqdYFT8OZrKoKkbAJzse3QHEORzOOTc9RqlGYwGoK0ZmBkLFP64WP4elmBKBe/+KkDuO9+HUBGmggEOJKoYUO2ZmGGMUrc0ISSIOLcOjsaY432pPTR56kc62YZk06kUeNVMw5F4XUMO/Z4SfhNuhtJuN1pvM6g0Gy2nCphzNqR4Nwqe0Z1MxT0r6N62IsEgYGs5LbpB+SmzOb8xpzeHYEBA6JeMeFB+r/Qz+UGMl9ds4w8MP4FWFZeAwW4yhwqxm37/sqPlfiMgllwbuTxlAtIuWbGmPh2UbF0+lR78ar2qrUioX+Mqqs+8MeAftA5kand5/pVQhpE+dRcqTjifxiwZrapBV1bvaIwtgRM8lGHTx7YvQq58yGm/YU73hWwHyoR0pXORjssgSLtLaCj3y4odBArTEtIOInpO+txMSgSjtW1pOBjKzdBzn94g4x1HKhg7DEUJlAnMg51CGxukWObvtA3vTgnaPxbK5Qegf4YC3aUW0pOVxhaxU1eytYf4xZOGqbutyVdF74aM+d9Xdym8GF7e/DpqB58fnRWUPL2MrS78RV9z2DlYdPjioJHmsCaJRWXBez66TAlhR4mMo5O+ZvXHVVG1cCAmDtX4yofRk8y474gZrLyhd+9CpuRIgvxrDQ7xFtD7u9CsY+MXC3RdC8JCIoKvBxFH/wOpV2Al",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

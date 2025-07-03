@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxtlPs3m3cAxr/v+yYhkrhrooK4NqPVzHR1UH1pCKOkXVSn2Hu2sU4Vp3HWoJcvRd2PHi3O6hK3tkwn20k1Lqt3zLpWlWLUKcrRk0Onidalpspsv24/fM7n+QOe58kVh4hYejv1AACswADhUQBQ8A8Itq3Hrf5t26KJgyV+297a2moYr57cTkjy0ZBPAa5+GgsAxSFQ6CORVbya8Cmt4xnSphcjVcu63N42c26hxSMz94y+6GW34RKlf71ensS0pPHiH6Ezp7KMV362L8sX2l4JsDfO/Y8WLIatkgoev+yQLjLlBr9k5SJMmw26tRcvM9RlsRcsH+QpKb85E20wjSsIJ6XpuQyB0zxN4PQBRe3ljSZ7U+NZxOihVUzW/KGhZZTnQVKCCHWaL8C8b+ZqH1am5zFSp1FHj1lzeeglPcF0I25dtokWi45IEZO70eANP2Ezaj828n3NIUSErfe/PobZ6cl2EuWk1xwQXIFFDKY7fqJ8nMzBlBEfBxONG8kMa17U4aghlTHHFcyfGaEnWQuHmsqpXIQjhbtAbDg82jef0wI+cYhBfG1u7cb5FIJ10YnIx6t1uOzFSCJO/2rQa/3juvyyL5B/CR8qRuNYxzv/LAFRYEJDylLJMtBDhfR82Dj4OUJmscrNxO3cNBf5dexLOv82P5uROQqd0Cw/o3v5lQz+7r7zUoKPlTLclUtH4AC6Dghb7O3FMKQghtdl/yMyzIUiZ/RNkDEbT6jTQZ+YzJxX2vI6bhyBC3ndtFQXgRi8m4LR+zvDH42Dt+twANhRy/UxhW+cwYvRlVWY4iR4X42PDNrhmqlvXUkbXKNZt8XVmqZoqoI/aPOqiqV6Dzd5pFaH6UZ46CWhbsj6WWzjpwPi9JlmmGpY/h1m3Z8+oCbZbN0VeMGTPIbVgac9Iz0wzYc3CDYachnxFlVs/Hm7hy28t6SrwKaN4IHCRNA56KahyVu08XIR3HMOJat2cKpYMmZSi4EMochAQKmyB9ynLszAous1e58LwZq+iKW4UHEYXAazJulztA1dw0qHFKaGND2diPz6zIRAO1pgvzPdXBBwiUJOpewgpEUrcHJBjv7OuQFWmz21oVXYXfBGrqqIO5N5h1zmKZqnWim8gZT5MZGas1NwsL6hREKvT8shk57N0yEVKXwZBiQxdizVPqkpiLt6zqbFSqVB9yopi2LnLG0TmHa6iVi236QlMacjHhBbymIx+GxhDqjq1KZctiIYpO0ZO0FkRLDWUkNpCs/HOJV8VbZ8bQd1IppcX92woCarS+ixmoTEPv99AnZ3qCeH85G1VjWp9C7tMuItGbFnH7k+QKLWcDapInPQIhph9vUt/DJ40XLH2VS+ch+ELTUkO4KBstqth5n+4OQps+3+G1jFU0H17drRJ2cNySHkZLekV/sVx0XuI1fvd5S35kXmcMSvpbssZcp9wD26aw7vh1oscg3GoNmMgn6kn5qtxse44kQgeBf0P3v+q2uJLThdPNH0oMZs+z1AoF+I8AdfIuNvBbHdMg==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

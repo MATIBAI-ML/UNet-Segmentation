@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJxtlGs0lHkAxv/vZWYyFzNJRNMY5RSFFKoVemNcJmIal9CkYY/ZqaxbY5GlFyVTWUlCaU3O6lRrk7YykbwdVJvsqqwmys6cOWWicetCJmZ19ut+eM7v+fY8z5dHLggJYFCtqQAABj+QJwQABl8FIfP485b/7XmQBcHhfvM0Go11L2pezTtIJgwJA9gblQQA9CmftzU8s1r/sit1wIVFFqdWWnGeYJIe/kmh0McDBH3r4AgF2LhJHOVMlmo3iJ2wTTCWkfJqtqZsFV6v7/JbXhpoZybn/Q/4bC96gRbsGWDubNNkfAaF9/ZLvQ+ZQ59MZUEFVoUl+frunOxDZWJMHl6ib+Urmz68wFzhmgNBrbmVj5SUQcW5lBBd8ABT31tbeMq2d52i4IHsjVfUxe8ThyfBZsQZsO+WViQwz2il7e2T27kNZ6xBkaT8WAye9TDMtwJxpMRxJsMHRhbHgsfPTrkf70P6wcOzaLJhb825axoDvgadCXiWJk6TlKLrJY3L807EHAbLllWICK/+YJ7Z5Ry1lo8X3/+Qw83J4oO3PlIlPpk3UoYrjxR9ygt4HbmDttgX+SMmNp3TYgmlU6WLsHZSMFXXRE6kppiIA6HLf59GzeqiUvM8TOz2ZVG4O7q6VxIzPTdEihVQOVm3DYZ07EYrhStIM0skq5XA/bgmJh4h9p6PLdEIATTscpi4aS6IxrpIzQyomxRsoZ6Epl0sEE1nvr1fCxPrTeNgImsWMUqhR4O7S2rfm8Cyo4gX+fDQInqKCDh1jj89Bkkd3sBSWx725WAe2dyyR0QQIJKT+k6DqSaisU92/m0m39SdB4Tz+JN4R1JtHQ7ro6FO0odcjIIU0qKcWR8HTHX39Nq6lHhCT+8IZTOJ5xkA7JExVB9zQoG3U9sqPGL5j3EqU/CzioEluaDKum70fnqbJesfjSfjWgPc0RS4lnKpHcrZJFZiL/Wv8UxDBmCTvza1TGGxMtqhcf9GFIy9/4FEtNSbgTueS52BzDfIqj6BXVST6Q6a5aODi0CzBrjJd4EQAM35guH75IPQNDDYm0PEr94Qak/5aW3C/A4Ip8oZsgYSGPNtZYLukDteNgIDTLDV4MYBP5CNVuEWGP4bHtD0+CaX8MemnHEz9TJcS3tbvXMoM9tbICsjzWYBG2gm4PPvkDU4SMfnHoWhSktkvG3YyMTbwaWTdCroercdOg5XrTJfoPuLhq2KYGNbJm4hPeUAa7heYUyYz4HxuhPINKVqj5X9Llo2JKEpckxPRsvP0syLwZWCA3CFGUG9ZjKeFc99z+HjQiIRqMsrDc0LX7X4qNcpOTNzVzyxV7lJs95VRPhEk2E294JUHfOASPgsuMiHWzcmuIqHlgaVw9WHeiXE4521Hpkr4X6aV0QErHuwUIu4u6kzagd1xNVg7Zr+6f0jZ9zs1JwtkaigFBsZM/0YJ6RX5kaiisbv6p97bodRezhqcDEXLwTVRoCshnVDFDJldFOaUN+n5YFiRP9FLHJ16hmbY9OnN/uDjXEriGR3NOUeMHbb+kEWUPXUpQuAAY+EtvWJFLU4GYpkOlm6oIIhcIUdtXGDLqbIkF+c7iAgJa+PVDnoLWiw87RTR4XfEpauIKQTa0oSdEztloqHuIqSlh3Y0g1iY9XskQJMld/3RB+UBHH3henYuRHRptgvheDLFHT+NkFaPXkqeZSU1yZSh5qIgzx814nUzzVEqDP3v+vJH7LhnV7wcFt9VcD81QG+Xwjvqo84/1//ZiXD",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

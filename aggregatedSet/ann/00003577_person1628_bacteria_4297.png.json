@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJx91OlTE2cABvB3d5PNASnhciNhwhpph0uhHnghvGq4RCFQD7SIcaq0Smg4NQ6o74oH6ohBbbUgkEyLUlEUC9jYYrcColQlVTmlAkYhliAOdBAKQulMP/fDM7/nH3ieY8rIUJHQRQgAEIWHKWIAwMG/wYhpHlWHGKchlWvWBU87NTVV0l78x3TD0mMiPwGwty0BAE5IuGLFOu2Fgc6I089oMamyn+GzBKfCnUOzv01xymVTZ3h6O2ZafyduSavUm85M7gl5Gx6CSm801tJ5Ye4OxxTyJVEPJAcqQFB81ktg/lyGHj5D6VPi1Xsyl3Ot2tek1YlvHr1EJTuyD/7OlgRh1hmqC+DLFkNlqWdyTX4nz+Ip9gcJ3LOBbDk6FdjdoXlX9AteuOr+1XKVlZhwydkCYwmjjaQVtoOXnqYM6TquJf9UA5Fvc/4m59ZHtY/YgVWt6hsL6d3gZnuW26RZnaB7YYSlmJGQJELDzY3r9ebADi9TitQFyonbH2yfJ+6d8wbsi5b2g72Bl0l4W6SGadgTcI/4NRVrxR3s+XNoDSFbdDjAjRLdYnZkDzbVGUop9NyOznV/wsk5RY4r6NOglXQQvE2i05iV+J0XhzRcU8urHcU1rsqjRFnKbPbKxnBkj+xiAb180win8Q143X6XdAW6oiRabIRyIMPnYfwIOCg4W4s1qjcXaoTKEAdKSUPJ8f65BViejbuTXxx7B/bir8bQp80bfMmJHrjYNbY1gaiSy9+mcPRisMWpHe2PoNccNy1fnTRUPPNeIti3wJMD3daqVdql4kyU7j301Q2CyeJ0X9zB3XnNCxV+vW3YWF3QRrEJjkLVD/etwjoRqgdq/wqsgRsgVEj4GsGPMv2GdyVoaZDeiMYMaBD4UKXxV0EEncJkhdBWm7N9+AgX/NzwfWRfIaY9UzlfV4SzBe440ETn8qw9qGD9ySZMzhkdJnqc4EH0p7ENXSJWg0C9kc0K/qkpy7+7t2RsAs4izu1niwhU7ZHBFlGS/hKTrK8BT5gvLiagtL6GSfduXkaY5vb7wIliFMeL8dVb0LOZHlH40G8MI+LM6+5yTo5jU7Fa7gJKGaeiCUP0kzQsgnuXVOXij2vi0rCMxX5BSn+wTSp24wVQ+tvOzZxdmnPp2NNFKzpQH747xta6gGL/0o3PJUf2Do+cu1txEnbjZwavi/zes6H9qk7S1q1IEHDE0dmjzLw1zauqwxxFN3DVdkqp72WeR5WXIWXndpZhrVc7u5q9jggVFrkAZj4EzODY4yupA8G4Lh8dBeMgf+BaRjKI9V8o8EiCeegpSTqAyqk90nw0vstuUtbHaCz8ru6tHzrl8HX24H1whUCrdnVkOLgLT8639UA1GYfxtrJEjBDiWtsvZJPHa1EOIDHTomiMpk/cn+NixO/Y1Psp/eAsOGyZzdcp2VrQsT/5YZq2ce1o3NICqO881MSIZ9FmuMww3pXYAnvwb7ijbw58vJnIs7neMYilT81sdrBMUN8tVGrB9ecxTB3n/BaWp96GH2mPl/838/9h6LMhihd2MXjvywH19L2A8OBIRflK1cF/AMzJ43g=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
