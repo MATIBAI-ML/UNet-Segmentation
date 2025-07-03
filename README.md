@@ -76,14 +76,3 @@ Run:
 `score.ipynb`
 
 This notebook computes the **DICE scores** for each trained model found in the `models/` folder.
-
----
-
-## 📌 Notes
-- This project is intended for research and educational use.
-- For best results, use the aggregatedSet and avoid wavelet masks.
-
----
-
-## 📧 Contact
-For questions or suggestions, feel free to reach out to the maintainers or submit an issue.
