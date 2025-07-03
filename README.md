@@ -41,8 +41,8 @@ Here, you can:
   - **Default**: `aggregatedSet` (combination of all three)
 
 This step outputs four `.npy` files inside the `data/` folder:
-- `x_train.npy`, `x_val.npy`
-- `y_train.npy`, `y_val.npy`
+- `Unet-Train-Lung-Images.npy`, `Unet-Validate-Lung-Images.npy`
+- `Unet-Train-Lung-Masks.npy`, `Unet-Validate-Lung-Masks.npy`
 
 ---
 
