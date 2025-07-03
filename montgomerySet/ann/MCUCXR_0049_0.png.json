@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 0,
+            "classId": 0,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "",
+            "createdAt": "2020-12-11T15:26:06.364Z",
+            "updatedAt": "2020-12-11T15:26:44.677Z",
+            "tags": [],
+            "classTitle": "Lungs",
+            "bitmap": {
+                "data": "eJx9lGtMU3cYxv//03vtdVKIFbAMNxGsIukmTsWjlNu47EBPw+JEq1UgOLYKykVXPSWKeANSF9kGQq03VFYQGBERKIgoA7ERtSoQygoITBAVkDsr2/d9ePN7k+fD++TNk+ckFhbAZgqZAAB2UKA0AgAELAwk2dBa4V9pAxULwf1snJ+fv/KyoNO2wQMRYTKA9r2IBoBcGiTdgqfkDXWEZraL7Ggq18uHgnKi8F5mNXS4eSyr75KKvKYqo/HCyaEGI8n5yFzg049d7PSCydIL0l8l7BP3ulXejq2H/TOtKDLqndnAOWPdiShqiFv31mFbTrwd8rhjOvI86WbtfbIupnvHvD2hJPr09W3Xl9z+LHdibffAKEt0LVx6rWwRkdu4t+Gx9srshAYJebHzHcCUKXjyrhyftsgzltSxwhWWJ0POqSGTYve6KG3WyqMt+lQkYy+IfhO0u0J7hjazqq7IGtd4fs4AGsbKhSNioV20a8PsGMiJ70iRlYyaPYRfo9+BU38XWuHh6P1OodDNcCnKPPzWLy4K3x5QXEoiVnftsNf4cFOsF8wttO3OmJ/iIanx5kbxHeqf2lt+uhK+v66U27MuzY00eVbER3NIM/K8qqVAzcHoxl5wFqQzFceYZUvrRMQb/xK6qIqfNt6m1VjTXDE0h7qcfmzxOfiK1+8BjyNTEl5m0quDAvRbAbVDQ/hBXyG9vYAjXcqnPslRIqZY0aumNu0JdOqQz6LALp5+38ABtA7F88j1smoXRTYayZCePkde9Uk/l6QfjyG9G1LcEEYph/dqJpI8f0/Bfe468R6FDlY4dmX7pyRwSXb2gZ1mGVp+/53xwRZ0sMYgI9RKRb440Z73vJ1Lr0qnzTmTLztnBqEucDrN6OmUMSwJgOHTZqif3iRUMXQbqMC5dfX+nqPI1KQpCIy8V6wzDrNHr8HgyEe9xFVk0FE05s71llK3i3mZBiG9uOyDZiThLijBjRO9JHqhKwylPO1Fgyk9rWCmQkzLaNaks140Q19KeSSn9uAmewzXVTtm48au5pHpGuWCKDY+yCcuIlMJaDzU/SgPfQkC3UWFaCLD0rlBLPDEURn8w8PUTexS376CaJk/1zrIgdBLsQbkJXdgtnN2gtjrxGUkjVmUHFHLsBnBYBR7tInZTjwxy0//q0j2GCNsFiQCDLdU8h05/WlCLZPubsqGwRSWwISj4ZrzzI1f1pfwebjOhTSOieYka6ijvYQeCXYa8bVjia4TOuRRE8CaosFx2LLwibgVYEbEoJTj6A5Ow3y8nCF5jThhzREwcb2ujfCHccvAzCoWrfwt96EaqHKsYL+7yfeZgfZ9woEY+DnjF7qqmNHf09+K4BTPu16WClI8JTv1CzocryYgheB6etmCt9lcRD7f98NKbAn4Lb9ydvDih5jFps3BNfHw1HxzLln6VBOKThbU+zm7JYnU+gH0lhq6ZemAN6Iq6Myk644sc+ko3gfGFrHdSd4s0x6CQylcTkyfzDjsQNwQzzl8I7lt3dbik/+pDJTOzg7TYIZ6Y8A9MPc6bDmLFYsaC9aul4ysZ6zVmU6bftrU5AK65sq8gOJjd+Q2XdVIohsfQnltLgn6shXQ+AwIwV/6EKJtwECNhbqralelJVIg2m2JEZhY4U1ZX1mS8ffVnMKi1oUe4fxXJ/+HVvkk7XFY5blTPoOvbVUGgvzCpIatirR/AN48KFo=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
