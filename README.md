@@ -3,7 +3,7 @@
 This project implements a UNet-based deep learning pipeline for automatic lung segmentation using chest X-ray images from public datasets. The pipeline includes preprocessing, model training, and bulk segmentation using a trained model.
 
 ## 📁 Project Structure
-
+```
 ├── requirements.ipynb
 ├── preprocessing.ipynb
 ├── train.ipynb
@@ -14,7 +14,7 @@ This project implements a UNet-based deep learning pipeline for automatic lung s
 ├── temp/ # Contains the best trained model from train.ipynb
 ├── input/ # Place test lung images here for segmentation
 ├── segmented/ # Segmentation results will be saved here
-
+```
 
 ## 🚀 How to Use
 
